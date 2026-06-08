@@ -33,14 +33,14 @@ main{
     width: 40vw;
     padding: 0 10px;
     
-    }
+}
 
 header div{
     display: flex;
     align-items: center;
 }
 
-/* must fix */
+
 #search icon{
     border: 1px solid #3e3e3e;
     padding: 1px;
@@ -69,4 +69,5 @@ body{
 
     overflow: hidden;
 }
+
 
